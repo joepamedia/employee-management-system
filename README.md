@@ -11,6 +11,8 @@ Employee Management System ![MIT](https://img.shields.io/badge/License-MIT-blue.
 - [Questions](#questions)
 
 # Link
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/1NDFLxXlgrtIWWOb2BBVBP_2ZVUjpKu0e/view)
+
 [![Watch the video](https://drive.google.com/file/d/1NDFLxXlgrtIWWOb2BBVBP_2ZVUjpKu0e/view)
 
 # Description
