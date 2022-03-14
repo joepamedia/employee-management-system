@@ -11,7 +11,7 @@
 - [Questions](#questions)
 
 # Link
-
+Click on the picture to watch the video demonstration!
 [![Watch the video](./img/hw12ss.jpg)](https://drive.google.com/file/d/1NDFLxXlgrtIWWOb2BBVBP_2ZVUjpKu0e/view)
 
 # Description
