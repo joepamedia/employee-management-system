@@ -1,4 +1,4 @@
-#Employee Management System ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+# Employee Management System ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Table of Contents
 
