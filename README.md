@@ -1,4 +1,4 @@
-# Note Taker ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+Employee Management System ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ The purpose of this application is to keep track of employees. Using Node.JS and
 
 # Installation
 
-First, make sure you have Node.js installed. [Click here](https://nodejs.org/en/download/) to install Node JS. Then install [Inquirer](https://www.npmjs.com/package/inquirer), [MySQL2](https://www.npmjs.com/package/mysql2)and [Console.table](https://www.npmjs.com/package/console.table). To install the packages, in the console, type 
+First, make sure you have Node.js installed. [Click here](https://nodejs.org/en/download/) to install Node JS. Then install [Inquirer](https://www.npmjs.com/package/inquirer), [MySQL2](https://www.npmjs.com/package/mysql2) and [Console.table](https://www.npmjs.com/package/console.table). To install the packages, in the console, type 
 
 ```
 npm i
