@@ -1,54 +1,60 @@
-# Employee Tracker ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+# Note Taker ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Table of Contents
 
+- [Link](#link)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Contribution](#Contribution)
 - [Liscense](#license)
+- [Questions](#questions)
+
+# Link
+Link to deployed website: https://note-taker-joepa.herokuapp.com/
 
 # Description
 
-### This is a note taking application. The user will enter a note title and a description of the note, and then click the save icon in the top right corner of the screen. From there, the note that the user created is saved to the created express server. If the user clicks the delte icon on the left hand side where the saved notes are, it will delete the note from the server based off of the id that the note has in the database JSON file.
+The purpose of this application is to keep track of employees. Using Node.JS and MySQL, the user can track the departments, roles, and employees. The user can add departments, roles, and employees to their management system to track all of the data needed for their company. In addition, the user can update the roles of their employees in the instance they get a promotion or switch roles. 
+![image](https://user-images.githubusercontent.com/95255407/156900007-e06c761b-d11d-4505-b951-87c8b7edf06c.png)
 
 # Installation
 
-### First, make sure you have Node.js installed. [Click here](https://nodejs.org/en/download/) to install Node JS. Then install [Express](https://www.npmjs.com/package/express) and [UUID](https://www.npmjs.com/package/uuid).
+First, make sure you have Node.js installed. [Click here](https://nodejs.org/en/download/) to install Node JS. Then install [Inquirer](https://www.npmjs.com/package/inquirer), [MySQL2](https://www.npmjs.com/package/mysql2)and [Console.table](https://www.npmjs.com/package/console.table). To install the packages, in the console, type 
+
+```
+npm i
+```
+
 
 # Usage
 
-### To start the server, run
+To start the application, run
 
 ```
-node server
+node index
 ```
-
-# Tests
-
-### Test to ensure every API route is working correctly, along with GET, POST, and DELETE methods.
 
 # Contributions
 
-### If you wish to contribute, contact me via email at josephpalmisano18@gmail.com
+If you wish to contribute, contact me via email at josephpalmisano18@gmail.com
 
 # License
 
-### This project's license is MIT.
+This project's license is MIT.
 
 # Questions
 
 If you have any questions, please contact me using a method below.
 
-## GitHub
-
-### [Github](https://github.com/joepamedia/)
 
 ## Email
 
-### josephpalmisano18@gmail.com
+josephpalmisano18@gmail.com
 
 ## GitHub Info
+[Github](https://github.com/joepamedia/)
 
 ### Author
 
-### Joe Palmisano
+Joe Palmisano
