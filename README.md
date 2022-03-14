@@ -17,7 +17,6 @@ Click on the picture to watch the video demonstration!
 # Description
 
 The purpose of this application is to keep track of employees. Using Node.JS and MySQL, the user can track the departments, roles, and employees. The user can add departments, roles, and employees to their management system to track all of the data needed for their company. In addition, the user can update the roles of their employees in the instance they get a promotion or switch roles.
-![image](https://user-images.githubusercontent.com/95255407/156900007-e06c761b-d11d-4505-b951-87c8b7edf06c.png)
 
 # Installation
 
